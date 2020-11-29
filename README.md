@@ -7,7 +7,9 @@
 [For Windows](https://getcomposer.org/download/) | [For Linux(Ubuntu)](https://www.ionos.com/community/hosting/php/install-and-use-php-composer-on-ubuntu-1604/)
 ---
 - Configure .env file
+
 ####For Windows
 - run `install_windows.bat`
+
 ####For Linux
 - run `./install_linux.sh`
