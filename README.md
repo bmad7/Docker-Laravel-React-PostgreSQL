@@ -8,10 +8,6 @@
 ---
 - Configure .env file
 ####For Windows
-- run `install.bat` file
+- run `install_windows.bat`
 ####For Linux
-1. `docker-compose up -d`
-2. `npx create-react-app frontend`
-3. `composer create-project laravel/laravel 8.* backend  --prefer-dist`
-4. `cd frontend`
-5. `npm install axios next`
+- run `./install_linux.sh`
