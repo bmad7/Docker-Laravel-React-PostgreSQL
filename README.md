@@ -8,8 +8,8 @@
 ---
 - Configure .env file
 
-####For Windows
+###For Windows
 - run `install_windows.bat`
 
-####For Linux
+###For Linux
 - run `./install_linux.sh`
